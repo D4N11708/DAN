@@ -1,0 +1,235 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="LA 1 HD" tvg-name="LA 1 HD" tvg-logo="https://www.vodafone.es/c/microsite/1500009248080/img/1419.png" group-title="TELEVISION DIGITAL TERRESTRE",LA 1 HD
+http://av2019-1.eu:25461/F2074/jon2020/157
+#EXTINF:-1 tvg-id="LA 2" tvg-name="LA 2" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/LA2.png" group-title="TELEVISION DIGITAL TERRESTRE",LA 2
+http://av2019-1.eu:25461/F2074/jon2020/763
+#EXTINF:-1 tvg-id="ANTENA 3 HD" tvg-name="ANTENA 3 HD" tvg-logo="https://www.vodafone.es/c/microsite/1500009248080/img/448.png" group-title="TELEVISION DIGITAL TERRESTRE",ANTENA 3 HD
+http://av2019-1.eu:25461/F2074/jon2020/161
+#EXTINF:-1 tvg-id="CUATRO HD" tvg-name="CUATRO HD" tvg-logo="https://www.vodafone.es/c/microsite/1500009248080/img/454.png" group-title="TELEVISION DIGITAL TERRESTRE",CUATRO HD
+http://av2019-1.eu:25461/F2074/jon2020/163
+#EXTINF:-1 tvg-id="TELECINCO HD" tvg-name="TELECINCO HD" tvg-logo="https://www.vodafone.es/c/microsite/1500009248080/img/447.png" group-title="TELEVISION DIGITAL TERRESTRE",TELECINCO HD
+http://av2019-1.eu:25461/F2074/jon2020/165
+#EXTINF:-1 tvg-id="LA SEXTA HD" tvg-name="LA SEXTA HD" tvg-logo="https://www.vodafone.es/c/microsite/1500009248080/img/450.png" group-title="TELEVISION DIGITAL TERRESTRE",LA SEXTA HD
+http://av2019-1.eu:25461/F2074/jon2020/167
+#EXTINF:-1 tvg-id="Telemadrid" tvg-name="Telemadrid HD" tvg-logo="https://www.telemadrid.es/static/BB3HTML/app/images/logos/logo.png" group-title="TELEVISION DIGITAL TERRESTRE",Telemadrid HD
+http://av2019-1.eu:25461/F2074/jon2020/227
+#EXTINF:-1 tvg-id="LaOtra" tvg-name="La Otra HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/OTRA.png" group-title="TELEVISION DIGITAL TERRESTRE",La Otra HD
+http://av2019-1.eu:25461/F2074/jon2020/229
+#EXTINF:-1 tvg-id="Canal Sur HD" tvg-name="CANAL SUR ANDALUCIA HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CSURHD.png" group-title="TELEVISION DIGITAL TERRESTRE",CANAL SUR ANDALUCIA HD
+http://av2019-1.eu:25461/F2074/jon2020/65116
+#EXTINF:-1 tvg-id="DMAX" tvg-name="DMAX" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DCRMAX.png" group-title="TELEVISION DIGITAL TERRESTRE",DMAX
+http://av2019-1.eu:25461/F2074/jon2020/65268
+#EXTINF:-1 tvg-id="BE MAD" tvg-name="BE MAD HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/BEMAD.png" group-title="TELEVISION DIGITAL TERRESTRE",BE MAD HD
+http://av2019-1.eu:25461/F2074/jon2020/132
+#EXTINF:-1 tvg-id="ENERGY" tvg-name="ENERGY HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/ENERGY.png" group-title="TELEVISION DIGITAL TERRESTRE",ENERGY HD
+http://av2019-1.eu:25461/F2074/jon2020/171
+#EXTINF:-1 tvg-id="FDF" tvg-name="FDF HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/FDFIC.png" group-title="TELEVISION DIGITAL TERRESTRE",FDF HD
+http://av2019-1.eu:25461/F2074/jon2020/178
+#EXTINF:-1 tvg-id="DIVINITY" tvg-name="DIVINITY HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DIVINI.png" group-title="TELEVISION DIGITAL TERRESTRE",DIVINITY HD
+http://av2019-1.eu:25461/F2074/jon2020/177
+#EXTINF:-1 tvg-id="Atreseries HD" tvg-name="ASTRESERIES" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/ATRESS.png" group-title="TELEVISION DIGITAL TERRESTRE",ASTRESERIES
+http://av2019-1.eu:25461/F2074/jon2020/64953
+#EXTINF:-1 tvg-id="mega" tvg-name="MEGA HD" tvg-logo="https://www.vodafone.es/c/microsite/1500009248080/img/1596.png?202006031151" group-title="TELEVISION DIGITAL TERRESTRE",MEGA HD
+http://av2019-1.eu:25461/F2074/jon2020/170
+#EXTINF:-1 tvg-id="NEOX" tvg-name="NEOX HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/NEOX.png" group-title="TELEVISION DIGITAL TERRESTRE",NEOX HD
+http://av2019-1.eu:25461/F2074/jon2020/174
+#EXTINF:-1 tvg-id="NOVA" tvg-name="NOVA HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/NOVA.png" group-title="TELEVISION DIGITAL TERRESTRE",NOVA HD
+http://av2019-1.eu:25461/F2074/jon2020/175
+#EXTINF:-1 tvg-id="CMM" tvg-name="Castilla La Mancha" tvg-logo="https://www.cmmedia.es/wp-content/themes/canal_rtvcm/images/logo.png" group-title="TELEVISION DIGITAL TERRESTRE",Castilla La Mancha
+http://av2019-1.eu:25461/F2074/jon2020/228
+#EXTINF:-1 tvg-id="La 7 HD" tvg-name="La 7 Tv" tvg-logo="http://webtv.7tvregiondemurcia.es/assets/home/images/logos/television-region-mucia.png" group-title="TELEVISION DIGITAL TERRESTRE",La 7 Tv
+http://xvstaw.xyz:8000/sPv9Pfd3g8/3OB1qAMvxq/373
+#EXTINF:-1 tvg-id="DMAX" tvg-name="A PUNT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0d/A_Punt.png" group-title="TELEVISION DIGITAL TERRESTRE",A PUNT
+http://av2019-1.eu:25461/F2074/jon2020/209
+#EXTINF:-1 tvg-id="Esport 3" tvg-name="CANAL TV3 " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/TV3_logo.svg/248px-TV3_logo.svg.png" group-title="TELEVISION DIGITAL TERRESTRE",CANAL TV3 
+http://av2019-1.eu:25461/F2074/jon2020/202
+#EXTINF:-1 tvg-id="EXTREMADURA SAT" tvg-name="EXTREMADURA HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/EXTRE.png" group-title="TELEVISION DIGITAL TERRESTRE",EXTREMADURA HD
+http://av2019-1.eu:25461/F2074/jon2020/215
+#EXTINF:-1 tvg-id="TVGA HD EUROPA" tvg-name="TV GALICIA HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/TVGAL.png" group-title="TELEVISION DIGITAL TERRESTRE",TV GALICIA HD
+http://av2019-1.eu:25461/F2074/jon2020/222
+#EXTINF:-1 tvg-id="RT Esp HD" tvg-name="RT Esp HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/RTESP.png" group-title="TELEVISION DIGITAL TERRESTRE",RT Esp HD
+http://xvstaw.xyz:8000/sPv9Pfd3g8/3OB1qAMvxq/498
+#EXTINF:-1 tvg-id="ETB 1 HD" tvg-name="Etb " tvg-logo="https://images14.eitb.eus/multimedia/recursos/generales/logo_eitbeus_nietxean2.gif" group-title="TELEVISION DIGITAL TERRESTRE",Etb 
+http://av2019-1.eu:25461/F2074/jon2020/223
+#EXTINF:-1 tvg-id="ARAGON TV INT" tvg-name="ARAGON TV INT" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/ARAGTV.png" group-title="TELEVISION DIGITAL TERRESTRE",ARAGON TV INT
+http://xvstaw.xyz:8000/sPv9Pfd3g8/3OB1qAMvxq/76
+#EXTINF:-1 tvg-id="24 HORAS" tvg-name="24 HORAS" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/24H.png" group-title="TELEVISION DIGITAL TERRESTRE",24 HORAS
+http://av2019-1.eu:25461/F2074/jon2020/181
+#EXTINF:-1 tvg-id="Orange Series" tvg-name="CANAL ORANGE  HD" tvg-logo="https://orangetv.orange.es/pc/api/rtv/v1/images/attachments/C_ORANGE_176x122.png" group-title="CINE+SERIES",CANAL ORANGE  HD
+http://av2019-1.eu:25461/F2074/jon2020/47
+#EXTINF:-1 tvg-id="#0 HD" tvg-name="#0HD" tvg-logo="http://www.movistarplus.es/assets/images/logo-cero-desk.png" group-title="CINE+SERIES",#0HD
+http://av2019-1.eu:25461/F2074/jon2020/20
+#EXTINF:-1 tvg-id="M.ESTRENOSHD" tvg-name="M.ESTRENOS HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MV1.png" group-title="CINE+SERIES",M.ESTRENOS HD
+http://av2019-1.eu:25461/F2074/jon2020/24
+#EXTINF:-1 tvg-id="M. ESTRENOS 2 HD" tvg-name="M. ESTRENOS 2 HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MEST2.png" group-title="CINE+SERIES",M. ESTRENOS 2 HD
+http://av2019-1.eu:25461/F2074/jon2020/72143
+#EXTINF:-1 tvg-id="M. ACCIÓN HD" tvg-name="M. ACCION HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CPACCI.png" group-title="CINE+SERIES",M. ACCION HD
+http://av2019-1.eu:25461/F2074/jon2020/26
+#EXTINF:-1 tvg-id="M.COMEDIA HD" tvg-name="M.COMEDIA HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CPCOME.png" group-title="CINE+SERIES",M.COMEDIA HD
+http://av2019-1.eu:25461/F2074/jon2020/30
+#EXTINF:-1 tvg-id="M. DRAMA HD" tvg-name="M. DRAMA HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CPCOLE.png" group-title="CINE+SERIES",M. DRAMA HD
+http://av2019-1.eu:25461/F2074/jon2020/28
+#EXTINF:-1 tvg-id="M. CLÁSICOS HD" tvg-name="M.CLASICOS HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MCLAS.png" group-title="CINE+SERIES",M.CLASICOS HD
+http://av2019-1.eu:25461/F2074/jon2020/74402
+#EXTINF:-1 tvg-id="M. SERIES HD" tvg-name="M.Series HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MV2.png" group-title="CINE+SERIES",M.Series HD
+http://av2019-1.eu:25461/F2074/jon2020/43
+#EXTINF:-1 tvg-id="M. SERIES  2 HD" tvg-name="M. SERIES 2 HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CPSER.png" group-title="CINE+SERIES",M. SERIES 2 HD
+http://av2019-1.eu:25461/F2074/jon2020/72140
+#EXTINF:-1 tvg-id="M. Cine Español" tvg-name="M. CINE ESPAÑA" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DCESP.png" group-title="CINE+SERIES",M. CINE ESPAÑA
+http://av2019-1.eu:25461/F2074/jon2020/34
+#EXTINF:-1 tvg-id="MTV ESPAÑA" tvg-name="MTV ESPAÑA" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MTV.png" group-title="CINE+SERIES",MTV ESPAÑA
+http://av2019-1.eu:25461/F2074/jon2020/234
+#EXTINF:-1 tvg-id="Somos" tvg-name="SOMOS" tvg-logo="https://www.vodafone.es/c/microsite/1500009248080/img/586.png" group-title="CINE+SERIES",SOMOS
+http://av2019-1.eu:25461/F2074/jon2020/732
+#EXTINF:-1 tvg-id="BOM" tvg-name="BOM CINE" tvg-logo="https://estaticos.tdt1.com/canales/logobomtv.jpg" group-title="CINE+SERIES",BOM CINE
+http://av2019-1.eu:25461/F2074/jon2020/210
+#EXTINF:-1 tvg-id="DARK" tvg-name="DARK " tvg-logo="https://www.vodafone.es/c/microsite/1500009248080/img/579.png" group-title="CINE+SERIES",DARK 
+http://av2019-1.eu:25461/F2074/jon2020/759
+#EXTINF:-1 tvg-id="XTRM" tvg-name="XTRM HD" tvg-logo="https://www.vodafone.es/c/microsite/1500009248080/img/1540.png" group-title="CINE+SERIES",XTRM HD
+http://av2019-1.eu:25461/F2074/jon2020/155
+#EXTINF:-1 tvg-id="AXN HD" tvg-name="AXN HD" tvg-logo="https://www.vodafone.es/c/microsite/1500009248080/img/589.png" group-title="CINE+SERIES",AXN HD
+http://av2019-1.eu:25461/F2074/jon2020/137
+#EXTINF:-1 tvg-id="AXN WHITE HD" tvg-name="AXNWHITE HD" tvg-logo="https://www.vodafone.es/c/microsite/1500009248080/img/1431.png" group-title="CINE+SERIES",AXNWHITE HD
+http://av2019-1.eu:25461/F2074/jon2020/139
+#EXTINF:-1 tvg-id="AMC HD" tvg-name="AMC HD" tvg-logo="https://www.vodafone.es/c/microsite/1500009248080/img/1585.png" group-title="CINE+SERIES",AMC HD
+http://av2019-1.eu:25461/F2074/jon2020/145
+#EXTINF:-1 tvg-id="TNT HD" tvg-name="TNT HD" tvg-logo="https://www.vodafone.es/c/microsite/1500009248080/img/549.png" group-title="CINE+SERIES",TNT HD
+http://av2019-1.eu:25461/F2074/jon2020/42
+#EXTINF:-1 tvg-id="SYFY HD" tvg-name="SYFY HD" tvg-logo="https://www.vodafone.es/c/microsite/1500009248080/img/1558.png" group-title="CINE+SERIES",SYFY HD
+http://av2019-1.eu:25461/F2074/jon2020/147
+#EXTINF:-1 tvg-id="COMEDYCENTRALHD" tvg-name="COMEDYCENTRAL HD" tvg-logo="https://www.vodafone.es/c/microsite/1500009248080/img/1578.png" group-title="CINE+SERIES",COMEDYCENTRAL HD
+http://av2019-1.eu:25461/F2074/jon2020/135
+#EXTINF:-1 tvg-id="COSMO HD" tvg-name="COSMO HD" tvg-logo="https://www.vodafone.es/c/microsite/1500009248080/img/584.png" group-title="CINE+SERIES",COSMO HD
+http://av2019-1.eu:25461/F2074/jon2020/133
+#EXTINF:-1 tvg-id="FOX HD" tvg-name="FOX HD" tvg-logo="https://www.vodafone.es/c/microsite/1500009248080/img/576.png" group-title="CINE+SERIES",FOX HD
+http://av2019-1.eu:25461/F2074/jon2020/141
+#EXTINF:-1 tvg-id="FOX LIFE HD" tvg-name="FOX LIFE HD" tvg-logo="https://www.vodafone.es/c/microsite/1500009248080/img/1582.png" group-title="CINE+SERIES",FOX LIFE HD
+http://av2019-1.eu:25461/F2074/jon2020/143
+#EXTINF:-1 tvg-id="CALLE 13 HD" tvg-name="CALLE 13 HD" tvg-logo="https://www.vodafone.es/c/microsite/1500009248080/img/1557.png" group-title="CINE+SERIES",CALLE 13 HD
+http://av2019-1.eu:25461/F2074/jon2020/37
+#EXTINF:-1 tvg-id="HOLLYWOODHD" tvg-name="HOLLYWOOD HD" tvg-logo="https://www.vodafone.es/c/microsite/1500009248080/img/530.png" group-title="CINE+SERIES",HOLLYWOOD HD
+http://av2019-1.eu:25461/F2074/jon2020/35
+#EXTINF:-1 tvg-id="TCM HD" tvg-name="TCM HD" tvg-logo="https://www.vodafone.es/c/microsite/1500009248080/img/1545.png" group-title="CINE+SERIES",TCM HD
+http://av2019-1.eu:25461/F2074/jon2020/39
+#EXTINF:-1 tvg-id="PARAMOUNT" tvg-name="PARAMOUNT NETWORK" tvg-logo="https://www.vodafone.es/c/microsite/1500009248080/img/1490.png" group-title="CINE+SERIES",PARAMOUNT NETWORK
+http://av2019-1.eu:25461/F2074/jon2020/179
+#EXTINF:-1 tvg-id="SUNDANCE TV" tvg-name="SUNDANCE TV" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/SUNDAN.png" group-title="CINE+SERIES",SUNDANCE TV
+http://av2019-1.eu:25461/F2074/jon2020/796
+#EXTINF:-1 tvg-id="" tvg-name="NASA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/NASA_logo.svg/140px-NASA_logo.svg.png" group-title="DOCUMENTALES",NASA TV
+http://av2019-1.eu:25461/F2074/jon2020/62997
+#EXTINF:-1 tvg-id="LA 1 HD" tvg-name="LOVE NATURE HD" tvg-logo="https://orangetv.orange.es/pc/api/rtv/v1/images/attachments_new/LOVE_NATURE_176x122.png" group-title="DOCUMENTALES",LOVE NATURE HD
+http://av2019-1.eu:25461/F2074/jon2020/64357
+#EXTINF:-1 tvg-id="HISTORIA" tvg-name="HISTORIA FHD" tvg-logo="https://www.vodafone.es/c/microsite/1500009248080/img/569.png" group-title="DOCUMENTALES",HISTORIA FHD
+http://av2019-1.eu:25461/F2074/jon2020/18
+#EXTINF:-1 tvg-id="CANAL ODISEA" tvg-name="ODISEA HD" tvg-logo="https://www.vodafone.es/c/microsite/1500009248080/img/567.png" group-title="DOCUMENTALES",ODISEA HD
+http://av2019-1.eu:25461/F2074/jon2020/760
+#EXTINF:-1 tvg-id="DISCOVERY" tvg-name="DISCOVERY HD" tvg-logo="https://www.vodafone.es/c/microsite/1500009248080/img/1495.png?by3t84p17z" group-title="DOCUMENTALES",DISCOVERY HD
+http://av2019-1.eu:25461/F2074/jon2020/117
+#EXTINF:-1 tvg-id="NAT GEO HD" tvg-name="NAT GEOGRAPHIC HD" tvg-logo="https://www.vodafone.es/c/microsite/1500009248080/img/571.png" group-title="DOCUMENTALES",NAT GEOGRAPHIC HD
+http://av2019-1.eu:25461/F2074/jon2020/122
+#EXTINF:-1 tvg-id="NG WILD HD" tvg-name="NAT GEOGRAPHIC WILD HD" tvg-logo="https://www.vodafone.es/c/microsite/1500009248080/img/1497.png" group-title="DOCUMENTALES",NAT GEOGRAPHIC WILD HD
+http://av2019-1.eu:25461/F2074/jon2020/124
+#EXTINF:-1 tvg-id="CRIMEN+INVES" tvg-name="CRIMEN+INVES" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CYM.png" group-title="DOCUMENTALES",CRIMEN+INVES
+http://av2019-1.eu:25461/F2074/jon2020/805
+#EXTINF:-1 tvg-id="BLAZE" tvg-name="BLAZE" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/BIOGRA.png" group-title="DOCUMENTALES",BLAZE
+http://av2019-1.eu:25461/F2074/jon2020/130
+#EXTINF:-1 tvg-id="CAZAyPESCA HD" tvg-name="CAZAyPESCA HD" tvg-logo="https://www.movistarplus.es/recorte/e/original/d73625a38d72d19aa72696c8bf5a2bce" group-title="DOCUMENTALES",CAZAyPESCA HD
+http://av2019-1.eu:25461/F2074/jon2020/103
+#EXTINF:-1 tvg-id="IBERALIA TV" tvg-name="IBERALIA TV" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/IBERAL.png" group-title="DOCUMENTALES",IBERALIA TV
+http://av2019-1.eu:25461/F2074/jon2020/105
+#EXTINF:-1 tvg-id="CANAL COCINA" tvg-name="CANAL COCINA" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CACOC.png" group-title="DOCUMENTALES",CANAL COCINA
+http://av2019-1.eu:25461/F2074/jon2020/197
+#EXTINF:-1 tvg-id="CANAL DECASA" tvg-name="CANAL DECASA" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DECASA.png" group-title="DOCUMENTALES",CANAL DECASA
+http://av2019-1.eu:25461/F2074/jon2020/17
+#EXTINF:-1 tvg-id="VIAJAR HD" tvg-name="VIAJAR HD" tvg-logo="https://www.vodafone.es/c/microsite/1500009248080/img/1498.png" group-title="DOCUMENTALES",VIAJAR HD
+http://av2019-1.eu:25461/F2074/jon2020/112
+#EXTINF:-1 tvg-id="DreamWorks HD" tvg-name="DREAMWORKS HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DWSP.png" group-title="JUNIOR",DREAMWORKS HD
+http://av2019-1.eu:25461/F2074/jon2020/75692
+#EXTINF:-1 tvg-id="NICKELODEONHD" tvg-name="NICKELODEON HD" tvg-logo="https://www.vodafone.es/c/microsite/1500009248080/img/520.png" group-title="JUNIOR",NICKELODEON HD
+http://av2019-1.eu:25461/F2074/jon2020/251
+#EXTINF:-1 tvg-id="DISNEY CH HD" tvg-name="DISNEY CHANEL HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DCH.png" group-title="JUNIOR",DISNEY CHANEL HD
+http://av2019-1.eu:25461/F2074/jon2020/248
+#EXTINF:-1 tvg-id="DISNEY JR" tvg-name="DISNEY JR" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/PLAYDC.png" group-title="JUNIOR",DISNEY JR
+http://av2019-1.eu:25461/F2074/jon2020/250
+#EXTINF:-1 tvg-id="BABY TV" tvg-name="BABY TV" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/BABY.png" group-title="JUNIOR",BABY TV
+http://av2019-1.eu:25461/F2074/jon2020/257
+#EXTINF:-1 tvg-id="BOING" tvg-name="BOING" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/BOING.png" group-title="JUNIOR",BOING
+http://av2019-1.eu:25461/F2074/jon2020/255
+#EXTINF:-1 tvg-id="CANAL PANDA" tvg-name="CANAL PANDA" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/PANDA.png" group-title="JUNIOR",CANAL PANDA
+http://av2019-1.eu:25461/F2074/jon2020/254
+#EXTINF:-1 tvg-id="CLAN TVE" tvg-name="CLAN HD" tvg-logo="https://www.vodafone.es/c/microsite/1500009248080/img/465.png" group-title="JUNIOR",CLAN HD
+http://av2019-1.eu:25461/F2074/jon2020/252
+#EXTINF:-1 tvg-id="DAZN F1 HD" tvg-name="DAZN F1 HD " tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MVF1.png" group-title="EVENTOS DEPORTIVOS",DAZN F1 HD 
+http://av2019-1.eu:25461/F2074/jon2020/97
+#EXTINF:-1 tvg-id="DAZN 1 HD" tvg-name="DAZN  1 HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/M1SD.png" group-title="EVENTOS DEPORTIVOS",DAZN  1 HD
+http://av2019-1.eu:25461/F2074/jon2020/67049
+#EXTINF:-1 tvg-id="DAZN 2 HD" tvg-name="DAZN 2 HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/M2SD.png" group-title="EVENTOS DEPORTIVOS",DAZN 2 HD
+http://av2019-1.eu:25461/F2074/jon2020/67053
+#EXTINF:-1 tvg-id="DAZN 3 HD" tvg-name="DAZN 3 HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DAZN3.png" group-title="EVENTOS DEPORTIVOS",DAZN 3 HD
+http://av2019-1.eu:25461/F2074/jon2020/67683
+#EXTINF:-1 tvg-id="DAZN 4 HD" tvg-name="DAZN 4 HD " tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DAZN4.png" group-title="EVENTOS DEPORTIVOS",DAZN 4 HD 
+http://av2019-1.eu:25461/F2074/jon2020/67681
+#EXTINF:-1 tvg-id="#VAMOSHD" tvg-name="#VAMOSHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/ficha_m/VAMOSD.png" group-title="EVENTOS DEPORTIVOS",#VAMOSHD
+http://av2019-1.eu:25461/F2074/jon2020/89
+#EXTINF:-1 tvg-id="M. LaLiga HD" tvg-name="M.LA LIGA HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGA.png" group-title="EVENTOS DEPORTIVOS",M.LA LIGA HD
+http://av2019-1.eu:25461/F2074/jon2020/49
+#EXTINF:-1 tvg-id="M. LaLiga 1 HD" tvg-name="M.LA LIGA 1 HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIG1.png" group-title="EVENTOS DEPORTIVOS",M.LA LIGA 1 HD
+http://av2019-1.eu:25461/F2074/jon2020/69597
+#EXTINF:-1 tvg-id="M. LaLiga 2 HD" tvg-name="M.LA LIGA 2 HD" tvg-logo="https://orangetv.orange.es/pc/api/rtv/v1/images/IMAGES/O/x_e3e1fffbaa8b0573d284b1a65.png" group-title="EVENTOS DEPORTIVOS",M.LA LIGA 2 HD
+http://av2019-1.eu:25461/F2074/jon2020/69599
+#EXTINF:-1 tvg-id="M. LaLiga 3 HD" tvg-name="M.LA LIGA 3 HD" tvg-logo="https://orangetv.orange.es/pc/api/rtv/v1/images/IMAGES/O/x_2d75bda0835941ae86d09294d.png" group-title="EVENTOS DEPORTIVOS",M.LA LIGA 3 HD
+http://av2019-1.eu:25461/F2074/jon2020/69602
+#EXTINF:-1 tvg-id="M. LaLiga 4" tvg-name="M.LALIGA 4" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIG4.png" group-title="EVENTOS DEPORTIVOS",M.LALIGA 4
+http://av2019-1.eu:25461/F2074/jon2020/69606
+#EXTINF:-1 tvg-id="M. LaLiga 5" tvg-name="M.LALIGA 5" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIG5.png" group-title="EVENTOS DEPORTIVOS",M.LALIGA 5
+http://av2019-1.eu:25461/F2074/jon2020/69609
+#EXTINF:-1 tvg-id="M. LaLiga 6" tvg-name="M.LALIGA 6" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIG6.png" group-title="EVENTOS DEPORTIVOS",M.LALIGA 6
+http://av2019-1.eu:25461/F2074/jon2020/69612
+#EXTINF:-1 tvg-id="M. LaLiga 7" tvg-name="M.LALIGA 7" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIG7.png" group-title="EVENTOS DEPORTIVOS",M.LALIGA 7
+http://av2019-1.eu:25461/F2074/jon2020/69615
+#EXTINF:-1 tvg-id="M. LaLiga 8" tvg-name="M.LALIGA 8" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIG8.png" group-title="EVENTOS DEPORTIVOS",M.LALIGA 8
+http://av2019-1.eu:25461/F2074/jon2020/69617
+#EXTINF:-1 tvg-id="M. LaLiga 9" tvg-name="M.LALIGA 9" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIG9.png" group-title="EVENTOS DEPORTIVOS",M.LALIGA 9
+http://av2019-1.eu:25461/F2074/jon2020/69619
+#EXTINF:-1 tvg-id="M.LCAMPEONES HD" tvg-name="MOVISTAR CAMPEONES HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAPIO.png" group-title="EVENTOS DEPORTIVOS",MOVISTAR CAMPEONES HD
+http://av2019-1.eu:25461/F2074/jon2020/59
+#EXTINF:-1 tvg-id="M.LCAMPEON1" tvg-name="M.LCAMPEON 1 hd" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAP1.png" group-title="EVENTOS DEPORTIVOS",M.LCAMPEON 1 hd
+http://av2019-1.eu:25461/F2074/jon2020/62
+#EXTINF:-1 tvg-id="M.LCAMPEON2" tvg-name="M.LCAMPEON 2 hd" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAP2.png" group-title="EVENTOS DEPORTIVOS",M.LCAMPEON 2 hd
+http://av2019-1.eu:25461/F2074/jon2020/65
+#EXTINF:-1 tvg-id="M.LCAMPEON3" tvg-name="M.LCAMPEON 3" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAP3.png" group-title="EVENTOS DEPORTIVOS",M.LCAMPEON 3
+http://av2019-1.eu:25461/F2074/jon2020/750
+#EXTINF:-1 tvg-id="M.LCAMPEON4" tvg-name="M.LCAMPEON 4" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAP4.png" group-title="EVENTOS DEPORTIVOS",M.LCAMPEON 4
+http://av2019-1.eu:25461/F2074/jon2020/751
+#EXTINF:-1 tvg-id="M.LCAMPEON5" tvg-name="M.LCAMPEON 5" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAP5.png" group-title="EVENTOS DEPORTIVOS",M.LCAMPEON 5
+http://av2019-1.eu:25461/F2074/jon2020/753
+#EXTINF:-1 tvg-id="M.LCAMPEON6" tvg-name="M.LCAMPEON 6" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAP6.png" group-title="EVENTOS DEPORTIVOS",M.LCAMPEON 6
+http://av2019-1.eu:25461/F2074/jon2020/755
+#EXTINF:-1 tvg-id="M.LCAMPEON7" tvg-name="M.LCAMPEON 7" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAP7.png" group-title="EVENTOS DEPORTIVOS",M.LCAMPEON 7
+http://av2019-1.eu:25461/F2074/jon2020/757
+#EXTINF:-1 tvg-id="M. DEPORTESHD" tvg-name="M. DEPORTES HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CPDEP.png" group-title="EVENTOS DEPORTIVOS",M. DEPORTES HD
+http://av2019-1.eu:25461/F2074/jon2020/85
+#EXTINF:-1 tvg-id="M. DEPORTES1HD" tvg-name="M.DEPORTES 1 HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/ARTHUR.png" group-title="EVENTOS DEPORTIVOS",M.DEPORTES 1 HD
+http://av2019-1.eu:25461/F2074/jon2020/744
+#EXTINF:-1 tvg-id="M. DEPORTES2" tvg-name="M. DEPORTES2" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/USOP2.png" group-title="EVENTOS DEPORTIVOS",M. DEPORTES2
+http://av2019-1.eu:25461/F2074/jon2020/745
+#EXTINF:-1 tvg-id="M. DEPORTES3" tvg-name="M. DEPORTES 3" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/USOP3.png" group-title="EVENTOS DEPORTIVOS",M. DEPORTES 3
+http://av2019-1.eu:25461/F2074/jon2020/746
+#EXTINF:-1 tvg-id="M. DEPORTES4" tvg-name="M. DEPORTES 4" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/USOP11.png" group-title="EVENTOS DEPORTIVOS",M. DEPORTES 4
+http://av2019-1.eu:25461/F2074/jon2020/747
+#EXTINF:-1 tvg-id="M. DEPORTES5" tvg-name="M. DEPORTES 5" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MULTI8.png" group-title="EVENTOS DEPORTIVOS",M. DEPORTES 5
+http://av2019-1.eu:25461/F2074/jon2020/748
+#EXTINF:-1 tvg-id="M. DEPORTES6" tvg-name="M. DEPORTES 6" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MULTI6.png" group-title="EVENTOS DEPORTIVOS",M. DEPORTES 6
+http://av2019-1.eu:25461/F2074/jon2020/749
+#EXTINF:-1 tvg-id="M. GOLF HD" tvg-name="M. GOLF HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/GOLF+.png" group-title="EVENTOS DEPORTIVOS",M. GOLF HD
+http://av2019-1.eu:25461/F2074/jon2020/99
+#EXTINF:-1 tvg-id="EUROSPORT1HD" tvg-name="EUROSPORT 1HD" tvg-logo="https://www.vodafone.es/c/microsite/1500009248080/img/581.png" group-title="EVENTOS DEPORTIVOS",EUROSPORT 1HD
+http://av2019-1.eu:25461/F2074/jon2020/92
+#EXTINF:-1 tvg-id="EUROSPORT 2" tvg-name="EUROSPORT 2" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/ESP2.png" group-title="EVENTOS DEPORTIVOS",EUROSPORT 2
+http://av2019-1.eu:25461/F2074/jon2020/94
+#EXTINF:-1 tvg-id="R. MADRID TV" tvg-name="R. MADRID TV" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/REALM.png" group-title="EVENTOS DEPORTIVOS",R. MADRID TV
+http://av2019-1.eu:25461/F2074/jon2020/82
+#EXTINF:-1 tvg-id="GOL" tvg-name="GOL" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/GOL.png" group-title="EVENTOS DEPORTIVOS",GOL
+http://av2019-1.eu:25461/F2074/jon2020/79
+#EXTINF:-1 tvg-id="TELEDEPORTE" tvg-name="TELEDEPORTE HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/TDEP.png" group-title="EVENTOS DEPORTIVOS",TELEDEPORTE HD
+http://av2019-1.eu:25461/F2074/jon2020/22475
