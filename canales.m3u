@@ -5,7 +5,7 @@ http://av2019-1.eu:25461/F2074/jon2020/157
 http://av2019-1.eu:25461/F2074/jon2020/763
 #EXTINF:-1 tvg-id="ANTENA 3 HD" tvg-name="ANTENA 3 HD" tvg-logo="https://www.vodafone.es/c/microsite/1500009248080/img/448.png" group-title="TELEVISION DIGITAL TERRESTRE",ANTENA 3 HD
 http://av2019-1.eu:25461/F2074/jon2020/161
-#EXTINF:-1 tvg-id="CUATRO HD" tvg-name="CUATRO HD" tvg-logo="https://www.vodafone.es/c/microsite/1500009248080/img/454.png" group-title="TELEVISION DIGITAL TERRESTRE",CUATRO HD
+#EXTINF:-1 tvg-id="CUATRO HD" tvg-name="CUATRO HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b2/Cuatro_HD2012.png" group-title="TELEVISION DIGITAL TERRESTRE",CUATRO HD
 http://av2019-1.eu:25461/F2074/jon2020/163
 #EXTINF:-1 tvg-id="TELECINCO HD" tvg-name="TELECINCO HD" tvg-logo="https://www.vodafone.es/c/microsite/1500009248080/img/447.png" group-title="TELEVISION DIGITAL TERRESTRE",TELECINCO HD
 http://av2019-1.eu:25461/F2074/jon2020/165
@@ -73,8 +73,8 @@ http://av2019-1.eu:25461/F2074/jon2020/74402
 http://av2019-1.eu:25461/F2074/jon2020/43
 #EXTINF:-1 tvg-id="M. SERIES  2 HD" tvg-name="M. SERIES 2 HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CPSER.png" group-title="CINE+SERIES",M. SERIES 2 HD
 http://av2019-1.eu:25461/F2074/jon2020/72140
-#EXTINF:-1 tvg-id="MTV ESPAÑA" tvg-name="MTV ESPAÑA" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MTV.png" group-title="CINE+SERIES",MTV ESPAÑA
-http://av2019-1.eu:25461/F2074/jon2020/234
+#EXTINF:-1 tvg-id="MTV" tvg-name="MTV" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MTV.png" group-title="CINE+SERIES",MTV 
+http://av2019-1.eu:25461/F2074/jon2020/233
 #EXTINF:-1 tvg-id="Somos" tvg-name="SOMOS" tvg-logo="https://www.vodafone.es/c/microsite/1500009248080/img/586.png" group-title="CINE+SERIES",SOMOS
 http://av2019-1.eu:25461/F2074/jon2020/732
 #EXTINF:-1 tvg-id="BOM" tvg-name="BOM CINE" tvg-logo="https://estaticos.tdt1.com/canales/logobomtv.jpg" group-title="CINE+SERIES",BOM CINE
@@ -129,7 +129,7 @@ http://av2019-1.eu:25461/F2074/jon2020/124
 http://av2019-1.eu:25461/F2074/jon2020/805
 #EXTINF:-1 tvg-id="BLAZE" tvg-name="BLAZE" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/BIOGRA.png" group-title="DOCUMENTALES",BLAZE
 http://av2019-1.eu:25461/F2074/jon2020/130
-#EXTINF:-1 tvg-id="CAZAyPESCA HD" tvg-name="CAZAyPESCA HD" tvg-logo="https://www.movistarplus.es/recorte/e/original/d73625a38d72d19aa72696c8bf5a2bce" group-title="DOCUMENTALES",CAZAyPESCA HD
+#EXTINF:-1 tvg-id="CAZAyPESCA HD" tvg-name="CAZAyPESCA HD" tvg-logo="https://https://upload.wikimedia.org/wikipedia/commons/8/89/Caza-pesca_m%2B.png" group-title="DOCUMENTALES",CAZAyPESCA HD
 http://av2019-1.eu:25461/F2074/jon2020/103
 #EXTINF:-1 tvg-id="IBERALIA TV" tvg-name="IBERALIA TV" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/IBERAL.png" group-title="DOCUMENTALES",IBERALIA TV
 http://av2019-1.eu:25461/F2074/jon2020/105
@@ -183,31 +183,25 @@ http://av2019-1.eu:25461/F2074/jon2020/69609
 http://av2019-1.eu:25461/F2074/jon2020/69612
 #EXTINF:-1 tvg-id="M. LaLiga 7" tvg-name="M.LALIGA 7" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIG7.png" group-title="EVENTOS DEPORTIVOS",M.LALIGA 7
 http://av2019-1.eu:25461/F2074/jon2020/69615
-#EXTINF:-1 tvg-id="M. LaLiga 8" tvg-name="M.LALIGA 8" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIG8.png" group-title="EVENTOS DEPORTIVOS",M.LALIGA 8
-http://av2019-1.eu:25461/F2074/jon2020/69617
-#EXTINF:-1 tvg-id="M. LaLiga 9" tvg-name="M.LALIGA 9" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIG9.png" group-title="EVENTOS DEPORTIVOS",M.LALIGA 9
-http://av2019-1.eu:25461/F2074/jon2020/69619
 #EXTINF:-1 tvg-id="M.LCAMPEONES HD" tvg-name="MOVISTAR CAMPEONES HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAPIO.png" group-title="EVENTOS DEPORTIVOS",MOVISTAR CAMPEONES HD
 http://av2019-1.eu:25461/F2074/jon2020/59
-#EXTINF:-1 tvg-id="M.LCAMPEON1" tvg-name="M.LCAMPEON 1 hd" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAP1.png" group-title="EVENTOS DEPORTIVOS",M.LCAMPEON 1 hd
+#EXTINF:-1 tvg-id="M.LCAMPEON1" tvg-name="M.LCAMPEON 1 hd" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAP1.png" group-title="EVENTOS DEPORTIVOS",M.L CAMPEONES 1 HD
 http://av2019-1.eu:25461/F2074/jon2020/62
-#EXTINF:-1 tvg-id="M.LCAMPEON2" tvg-name="M.LCAMPEON 2 hd" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAP2.png" group-title="EVENTOS DEPORTIVOS",M.LCAMPEON 2 hd
+#EXTINF:-1 tvg-id="M.LCAMPEON2" tvg-name="M.LCAMPEON 2 hd" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAP2.png" group-title="EVENTOS DEPORTIVOS",M.L CAMPEONES 2 HD
 http://av2019-1.eu:25461/F2074/jon2020/65
-#EXTINF:-1 tvg-id="M.LCAMPEON3" tvg-name="M.LCAMPEON 3" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAP3.png" group-title="EVENTOS DEPORTIVOS",M.LCAMPEON 3
+#EXTINF:-1 tvg-id="M.LCAMPEON3" tvg-name="M.LCAMPEON 3" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAP3.png" group-title="EVENTOS DEPORTIVOS",M.L CAMPEONES 3 HD
 http://av2019-1.eu:25461/F2074/jon2020/750
-#EXTINF:-1 tvg-id="M.LCAMPEON4" tvg-name="M.LCAMPEON 4" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAP4.png" group-title="EVENTOS DEPORTIVOS",M.LCAMPEON 4
-http://av2019-1.eu:25461/F2074/jon2020/751
-#EXTINF:-1 tvg-id="M.LCAMPEON5" tvg-name="M.LCAMPEON 5" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAP5.png" group-title="EVENTOS DEPORTIVOS",M.LCAMPEON 5
-http://av2019-1.eu:25461/F2074/jon2020/753
-#EXTINF:-1 tvg-id="M.LCAMPEON6" tvg-name="M.LCAMPEON 6" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAP6.png" group-title="EVENTOS DEPORTIVOS",M.LCAMPEON 6
-http://av2019-1.eu:25461/F2074/jon2020/755
-#EXTINF:-1 tvg-id="M.LCAMPEON7" tvg-name="M.LCAMPEON 7" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAP7.png" group-title="EVENTOS DEPORTIVOS",M.LCAMPEON 7
-http://av2019-1.eu:25461/F2074/jon2020/757
+#EXTINF:-1 tvg-id="M.LCAMPEON4" tvg-name="M.LCAMPEON 4" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAP4.png" group-title="EVENTOS DEPORTIVOS",M.L CAMPEONES 4
+http://av2019-1.eu:25461/F2074/jon2020/752
+#EXTINF:-1 tvg-id="M.LCAMPEON5" tvg-name="M.LCAMPEON 5" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAP5.png" group-title="EVENTOS DEPORTIVOS",M.L CAMPEONES 5
+http://av2019-1.eu:25461/F2074/jon2020/754
+#EXTINF:-1 tvg-id="M.LCAMPEON6" tvg-name="M.LCAMPEON 6" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAP6.png" group-title="EVENTOS DEPORTIVOS",M.L CAMPEONES 6
+http://av2019-1.eu:25461/F2074/jon2020/756
 #EXTINF:-1 tvg-id="M. DEPORTESHD" tvg-name="M. DEPORTES HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CPDEP.png" group-title="EVENTOS DEPORTIVOS",M. DEPORTES HD
 http://av2019-1.eu:25461/F2074/jon2020/85
 #EXTINF:-1 tvg-id="M. DEPORTES1HD" tvg-name="M.DEPORTES 1 HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/ARTHUR.png" group-title="EVENTOS DEPORTIVOS",M.DEPORTES 1 HD
 http://av2019-1.eu:25461/F2074/jon2020/744
-#EXTINF:-1 tvg-id="M. DEPORTES2" tvg-name="M. DEPORTES2" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/USOP2.png" group-title="EVENTOS DEPORTIVOS",M. DEPORTES2
+#EXTINF:-1 tvg-id="M. DEPORTES2" tvg-name="M. DEPORTES 2" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/USOP2.png" group-title="EVENTOS DEPORTIVOS",M. DEPORTES 2
 http://av2019-1.eu:25461/F2074/jon2020/745
 #EXTINF:-1 tvg-id="M. DEPORTES3" tvg-name="M. DEPORTES 3" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/USOP3.png" group-title="EVENTOS DEPORTIVOS",M. DEPORTES 3
 http://av2019-1.eu:25461/F2074/jon2020/746
@@ -219,9 +213,9 @@ http://av2019-1.eu:25461/F2074/jon2020/748
 http://av2019-1.eu:25461/F2074/jon2020/749
 #EXTINF:-1 tvg-id="M. GOLF HD" tvg-name="M. GOLF HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/GOLF+.png" group-title="EVENTOS DEPORTIVOS",M. GOLF HD
 http://av2019-1.eu:25461/F2074/jon2020/99
-#EXTINF:-1 tvg-id="EUROSPORT1HD" tvg-name="EUROSPORT 1HD" tvg-logo="https://www.vodafone.es/c/microsite/1500009248080/img/581.png" group-title="EVENTOS DEPORTIVOS",EUROSPORT 1HD
+#EXTINF:-1 tvg-id="EUROSPORT1HD" tvg-name="EUROSPORT 1HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPdPA-qA08-kda2uazFTWP2RPtEQ6be7cRyFyoi6GPujfIz_ynfpVdqSLnM91vg-RmgMI&usqp=CAU" group-title="EVENTOS DEPORTIVOS",EUROSPORT 1HD
 http://av2019-1.eu:25461/F2074/jon2020/92
-#EXTINF:-1 tvg-id="EUROSPORT 2" tvg-name="EUROSPORT 2" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/ESP2.png" group-title="EVENTOS DEPORTIVOS",EUROSPORT 2
+#EXTINF:-1 tvg-id="EUROSPORT 2" tvg-name="EUROSPORT 2" tvg-logo="https://satcesc.com/wp-content/uploads/2016/01/eurosport_2.jpg" group-title="EVENTOS DEPORTIVOS",EUROSPORT 2
 http://av2019-1.eu:25461/F2074/jon2020/94
 #EXTINF:-1 tvg-id="R. MADRID TV" tvg-name="R. MADRID TV" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/REALM.png" group-title="EVENTOS DEPORTIVOS",R. MADRID TV
 http://av2019-1.eu:25461/F2074/jon2020/82
