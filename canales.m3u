@@ -5,7 +5,7 @@ http://av2019-1.eu:25461/F2074/jon2020/157
 http://av2019-1.eu:25461/F2074/jon2020/763
 #EXTINF:-1 tvg-id="ANTENA 3 HD" tvg-name="ANTENA 3 HD" tvg-logo="https://fotografias.atresmediapublicidad.com/clipping/cmsimages01/2015/01/23/D813BDA8-51F3-4CA8-AE08-B3271564AD73/58.jpg" group-title="TELEVISION DIGITAL TERRESTRE",ANTENA 3 HD
 http://av2019-1.eu:25461/F2074/jon2020/161
-#EXTINF:-1 tvg-id="CUATRO HD" tvg-name="CUATRO HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b2/Cuatro_HD2012.png" group-title="TELEVISION DIGITAL TERRESTRE",CUATRO HD
+#EXTINF:-1 tvg-id="CUATRO HD" tvg-name="CUATRO HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/23/CuatroHD.svg" group-title="TELEVISION DIGITAL TERRESTRE",CUATRO HD
 http://av2019-1.eu:25461/F2074/jon2020/163
 #EXTINF:-1 tvg-id="TELECINCO HD" tvg-name="TELECINCO HD" tvg-logo="https://www.vodafone.es/c/microsite/1500009248080/img/447.png" group-title="TELEVISION DIGITAL TERRESTRE",TELECINCO HD
 http://av2019-1.eu:25461/F2074/jon2020/165
@@ -45,7 +45,7 @@ http://av2019-1.eu:25461/F2074/jon2020/209
 http://av2019-1.eu:25461/F2074/jon2020/202
 #EXTINF:-1 tvg-id="EXTREMADURA SAT" tvg-name="EXTREMADURA HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/EXTRE.png" group-title="TELEVISION DIGITAL TERRESTRE",EXTREMADURA HD
 http://av2019-1.eu:25461/F2074/jon2020/215
-#EXTINF:-1 tvg-id="TVGA HD EUROPA" tvg-name="TV GALICIA HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/TVGAL.png" group-title="TELEVISION DIGITAL TERRESTRE",TV GALICIA HD
+#EXTINF:-1 tvg-id="TVGA HD EUROPA" tvg-name="TV GALICIA HD" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLSw7Ig2yBsDHGX3LHLt2AzMxpnE8TPJoF5R1Hxh=s900-c-k-c0x00ffffff-no-rj" group-title="TELEVISION DIGITAL TERRESTRE",TV GALICIA HD
 http://av2019-1.eu:25461/F2074/jon2020/222
 #EXTINF:-1 tvg-id="RT Esp HD" tvg-name="RT Esp HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/RTESP.png" group-title="TELEVISION DIGITAL TERRESTRE",RT Esp HD
 http://xvstaw.xyz:8000/sPv9Pfd3g8/3OB1qAMvxq/498
@@ -125,7 +125,7 @@ http://av2019-1.eu:25461/F2074/jon2020/117
 http://av2019-1.eu:25461/F2074/jon2020/122
 #EXTINF:-1 tvg-id="NG WILD HD" tvg-name="NAT GEOGRAPHIC WILD HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1EUfnhw1IzRqdECz4EKrZsPrazxX3raUgqNs8EXdIJEIQnWa-5o6icXcfC0auR8WMvUw&usqp=CAU" group-title="DOCUMENTALES",NAT GEOGRAPHIC WILD HD
 http://av2019-1.eu:25461/F2074/jon2020/124
-#EXTINF:-1 tvg-id="CRIMEN+INVES" tvg-name="CRIMEN+INVES" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CYM.png" group-title="DOCUMENTALES",CRIMEN+INVES
+#EXTINF:-1 tvg-id="CRIMEN+INVES" tvg-name="CRIMEN+INVES" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CYM.png" group-title="DOCUMENTALES",CRIMEN+INVESTIGACION
 http://av2019-1.eu:25461/F2074/jon2020/805
 #EXTINF:-1 tvg-id="BLAZE" tvg-name="BLAZE" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/BIOGRA.png" group-title="DOCUMENTALES",BLAZE
 http://av2019-1.eu:25461/F2074/jon2020/130
