@@ -27,7 +27,7 @@ http://av2019-1.eu:25461/pepeluis30062020/IcDcnWQ4Cg/171
 http://av2019-1.eu:25461/pepeluis30062020/IcDcnWQ4Cg/178
 #EXTINF:-1 tvg-id="DIVINITY" tvg-name="DIVINITY HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DIVINI.png" group-title="TELEVISION DIGITAL TERRESTRE",DIVINITY HD
 http://av2019-1.eu:25461/pepeluis30062020/IcDcnWQ4Cg/177
-#EXTINF:-1 tvg-id="Atreseries HD" tvg-name="ASTRESERIES" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/ATRESS.png" group-title="TELEVISION DIGITAL TERRESTRE",ASTRESERIES
+#EXTINF:-1 tvg-id="Atreseries HD" tvg-name="ASTRESERIES" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/ATRESS.png" group-title="TELEVISION DIGITAL TERRESTRE",ATRESERIES
 http://av2019-1.eu:25461/pepeluis30062020/IcDcnWQ4Cg/169
 #EXTINF:-1 tvg-id="mega" tvg-name="MEGA HD" tvg-logo="https://www.vodafone.es/c/microsite/1500009248080/img/1596.png?202006031151" group-title="TELEVISION DIGITAL TERRESTRE",MEGA HD
 http://av2019-1.eu:25461/pepeluis30062020/IcDcnWQ4Cg/170
@@ -55,21 +55,21 @@ http://av2019-1.eu:25461/pepeluis30062020/IcDcnWQ4Cg/223
 http://xvstaw.xyz:8000/sPv9Pfd3g8/3OB1qAMvxq/76
 #EXTINF:-1 tvg-id="24 HORAS" tvg-name="24 HORAS" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/24H.png" group-title="TELEVISION DIGITAL TERRESTRE",24 HORAS
 http://av2019-1.eu:25461/pepeluis30062020/IcDcnWQ4Cg/181
-#EXTINF:-1 tvg-id="#0 HD" tvg-name="#0HD" tvg-logo="https://i0.wp.com/www.audiovisual451.com/wp-content/uploads/0-Movistar-logo.jpg?fit=300%2C236&ssl=1" group-title="CINE+SERIES",#0HD
-hhttp://av2019-1.eu:25461/pepeluis30062020/IcDcnWQ4Cg/21
+#EXTINF:-1 tvg-id="#0 HD" tvg-name="#0HD" tvg-logo="https://i0.wp.com/www.audiovisual451.com/wp-content/uploads/0-Movistar-logo.jpg?fit=300%2C236&ssl=1" group-title="CINE+SERIES",#0 HD
+http://av2019-1.eu:25461/pepeluis30062020/IcDcnWQ4Cg/2
 #EXTINF:-1 tvg-id="M.ESTRENOSHD" tvg-name="M.ESTRENOS HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MV1.png" group-title="CINE+SERIES",M.ESTRENOS HD
 http://av2019-1.eu:25461/pepeluis30062020/IcDcnWQ4Cg/24
 #EXTINF:-1 tvg-id="M. ESTRENOS 2 HD" tvg-name="M. ESTRENOS 2 HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MEST2.png" group-title="CINE+SERIES",M. ESTRENOS 2 HD
 http://av2019-1.eu:25461/pepeluis30062020/IcDcnWQ4Cg/72143
 #EXTINF:-1 tvg-id="M. ACCIÓN HD" tvg-name="M. ACCION HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CPACCI.png" group-title="CINE+SERIES",M. ACCION HD
 http://av2019-1.eu:25461/pepeluis30062020/IcDcnWQ4Cg/26
-#EXTINF:-1 tvg-id="M.COMEDIA HD" tvg-name="M.COMEDIA HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CPCOME.png" group-title="CINE+SERIES",M.COMEDIA HD
+#EXTINF:-1 tvg-id="M.COMEDIA HD" tvg-name="M.COMEDIA HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CPCOME.png" group-title="CINE+SERIES",M. COMEDIA HD
 http://av2019-1.eu:25461/pepeluis30062020/IcDcnWQ4Cg/30
 #EXTINF:-1 tvg-id="M. DRAMA HD" tvg-name="M. DRAMA HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CPCOLE.png" group-title="CINE+SERIES",M. DRAMA HD
 http://av2019-1.eu:25461/pepeluis30062020/IcDcnWQ4Cg/28
-#EXTINF:-1 tvg-id="M. CLÁSICOS HD" tvg-name="M.CLASICOS HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MCLAS.png" group-title="CINE+SERIES",M.CLASICOS HD
+#EXTINF:-1 tvg-id="M. CLÁSICOS HD" tvg-name="M.CLASICOS HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MCLAS.png" group-title="CINE+SERIES",M. CLASICOS HD
 http://av2019-1.eu:25461/pepeluis30062020/IcDcnWQ4Cg/74402
-#EXTINF:-1 tvg-id="M. SERIES HD" tvg-name="M.Series HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MV2.png" group-title="CINE+SERIES",M.Series HD
+#EXTINF:-1 tvg-id="M. SERIES HD" tvg-name="M.Series HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MV2.png" group-title="CINE+SERIES",M. SERIES HD
 http://av2019-1.eu:25461/pepeluis30062020/IcDcnWQ4Cg/43
 #EXTINF:-1 tvg-id="M. SERIES  2 HD" tvg-name="M. SERIES 2 HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CPSER.png" group-title="CINE+SERIES",M. SERIES 2 HD
 http://av2019-1.eu:25461/pepeluis30062020/IcDcnWQ4Cg/72140
@@ -160,12 +160,12 @@ http://av2019-1.eu:25461/pepeluis30062020/IcDcnWQ4Cg/76531
 #EXTINF:-1 tvg-id="DAZN 1 HD" tvg-name="DAZN  1 HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/M1SD.png" group-title="EVENTOS DEPORTIVOS",DAZN  1 HD
 http://av2019-1.eu:25461/pepeluis30062020/IcDcnWQ4Cg/67049
 #EXTINF:-1 tvg-id="DAZN 2 HD" tvg-name="DAZN 2 HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/M2SD.png" group-title="EVENTOS DEPORTIVOS",DAZN 2 HD
-http://av2019-1.eu:25461/pepeluis30062020/IcDcnWQ4Cg/67053
+http://av2019-1.eu:25461/pepeluis30062020/IcDcnWQ4Cg/67052
 #EXTINF:-1 tvg-id="DAZN 3 HD" tvg-name="DAZN 3 HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DAZN3.png" group-title="EVENTOS DEPORTIVOS",DAZN 3 HD
 http://av2019-1.eu:25461/pepeluis30062020/IcDcnWQ4Cg/67683
 #EXTINF:-1 tvg-id="DAZN 4 HD" tvg-name="DAZN 4 HD " tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DAZN4.png" group-title="EVENTOS DEPORTIVOS",DAZN 4 HD 
 http://av2019-1.eu:25461/pepeluis30062020/IcDcnWQ4Cg/67681
-#EXTINF:-1 tvg-id="#VAMOSHD" tvg-name="#VAMOSHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/ficha_m/VAMOSD.png" group-title="EVENTOS DEPORTIVOS",#VAMOSHD
+#EXTINF:-1 tvg-id="#VAMOSHD" tvg-name="#VAMOSHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/ficha_m/VAMOSD.png" group-title="EVENTOS DEPORTIVOS",#VAMOS HD
 http://av2019-1.eu:25461/pepeluis30062020/IcDcnWQ4Cg/89
 #EXTINF:-1 tvg-id="M. LaLiga HD" tvg-name="M.LA LIGA HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGA.png" group-title="EVENTOS DEPORTIVOS",M.LA LIGA HD
 http://av2019-1.eu:25461/pepeluis30062020/IcDcnWQ4Cg/49
