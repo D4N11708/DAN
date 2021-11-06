@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="LA 1 HD" tvg-name="LA 1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/La_1_HD_TVE.png/220px-La_1_HD_TVE.png" group-title="TELEVISION DIGITAL TERRESTRE",LA 1 HD
+#EXTINF:-1 tvg-id="LA 1 HD" tvg-name="LA 1 HD" tvg-logo="https://www.centrumpsicologos.com/wp-content/uploads/2020/05/logo-rtve.png" group-title="TELEVISION DIGITAL TERRESTRE",LA 1 HD
 http://av2019-1.eu:25461/pepeluis30062020/IcDcnWQ4Cg/157
 #EXTINF:-1 tvg-id="LA 2" tvg-name="LA 2" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/LA2.png" group-title="TELEVISION DIGITAL TERRESTRE",LA 2
 http://av2019-1.eu:25461/pepeluis30062020/IcDcnWQ4Cg/763
