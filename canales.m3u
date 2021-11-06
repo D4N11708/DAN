@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="LA 1 HD" tvg-name="LA 1 HD" tvg-logo="https://static.wikia.nocookie.net/logosfake/images/1/19/Logo_TVE-1.svg/revision/latest?cb=20201230145822" group-title="TELEVISION DIGITAL TERRESTRE",LA 1 HD
+#EXTINF:-1 tvg-id="LA 1 HD" tvg-name="LA 1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/La_1_HD_TVE.png/220px-La_1_HD_TVE.png" group-title="TELEVISION DIGITAL TERRESTRE",LA 1 HD
 http://av2019-1.eu:25461/pepeluis30062020/IcDcnWQ4Cg/157
 #EXTINF:-1 tvg-id="LA 2" tvg-name="LA 2" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/LA2.png" group-title="TELEVISION DIGITAL TERRESTRE",LA 2
 http://av2019-1.eu:25461/pepeluis30062020/IcDcnWQ4Cg/763
@@ -95,7 +95,7 @@ http://av2019-1.eu:25461/pepeluis30062020/IcDcnWQ4Cg/42
 http://av2019-1.eu:25461/pepeluis30062020/IcDcnWQ4Cg/147
 #EXTINF:-1 tvg-id="COMEDYCENTRALHD" tvg-name="COMEDYCENTRAL HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/3543px-Comedy_Central_2018.svg.png" group-title="CINE+SERIES",COMEDYCENTRAL HD
 http://av2019-1.eu:25461/pepeluis30062020/IcDcnWQ4Cg/135
-#EXTINF:-1 tvg-id="COSMO HD" tvg-name="COSMO HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Cosmo_TV_logo.svg/1280px-Cosmo_TV_logo.svg.png" group-title="CINE+SERIES",COSMO HD
+#EXTINF:-1 tvg-id="COSMO HD" tvg-name="COSMO HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/18/COSMO_tv.png" group-title="CINE+SERIES",COSMO HD
 http://av2019-1.eu:25461/pepeluis30062020/IcDcnWQ4Cg/133
 #EXTINF:-1 tvg-id="FOX HD" tvg-name="FOX HD" tvg-logo="https://comunidad.movistar.es/t5/image/serverpage/image-id/274i9126067F9FAEEA77?v=v2" group-title="CINE+SERIES",FOX HD
 http://av2019-1.eu:25461/pepeluis30062020/IcDcnWQ4Cg/141
