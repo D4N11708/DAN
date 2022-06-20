@@ -115,7 +115,7 @@ http://av2019-1.eu:25461/pepeluis30062020/IcDcnWQ4Cg/796
 http://av2019-1.eu:25461/pepeluis30062020/IcDcnWQ4Cg/62997
 #EXTINF:-1 tvg-id="LA 1 HD" tvg-name="LOVE NATURE HD" tvg-logo="https://mms.businesswire.com/media/20160221005252/es/510305/5/LoveNature_TypeMask_FINAL_highres.jpg" group-title="DOCUMENTALES",LOVE NATURE HD
 http://av2019-1.eu:25461/pepeluis30062020/IcDcnWQ4Cg/64357
-#EXTINF:-1 tvg-id="HISTORIA" tvg-name="HISTORIA FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/History_Logo.svg/1952px-History_Logo.svg.png" group-title="DOCUMENTALES",HISTORIA FHD
+#EXTINF:-1 tvg-id="HISTORIA" tvg-name="HISTORIA FHD" tvg-logo="https://www3.gobiernodecanarias.org/medusa/ecoescuela/recursosdigitales/files/formidable/HISTORIA-200x200.png" group-title="DOCUMENTALES",HISTORIA FHD
 http://av2019-1.eu:25461/pepeluis30062020/IcDcnWQ4Cg/18
 #EXTINF:-1 tvg-id="CANAL ODISEA" tvg-name="ODISEA HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4e/ODISEA.png" group-title="DOCUMENTALES",ODISEA HD
 http://av2019-1.eu:25461/pepeluis30062020/IcDcnWQ4Cg/760
@@ -125,9 +125,9 @@ http://av2019-1.eu:25461/pepeluis30062020/IcDcnWQ4Cg/117
 http://av2019-1.eu:25461/pepeluis30062020/IcDcnWQ4Cg/122
 #EXTINF:-1 tvg-id="NG WILD HD" tvg-name="NAT GEOGRAPHIC WILD HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1EUfnhw1IzRqdECz4EKrZsPrazxX3raUgqNs8EXdIJEIQnWa-5o6icXcfC0auR8WMvUw&usqp=CAU" group-title="DOCUMENTALES",NAT GEOGRAPHIC WILD HD
 http://av2019-1.eu:25461/pepeluis30062020/IcDcnWQ4Cg/124
-#EXTINF:-1 tvg-id="CRIMEN+INVES" tvg-name="CRIMEN+INVES" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CYM.png" group-title="DOCUMENTALES",CRIMEN+INVESTIGACION
+#EXTINF:-1 tvg-id="CRIMEN+INVES" tvg-name="CRIMEN+INVES" tvg-logo="https://i1.wp.com/audiovisual451.com/wp-content/uploads/Crimen-Investigacion-logo-2017.jpg?resize=300%2C236&ssl=1" group-title="DOCUMENTALES",CRIMEN+INVESTIGACION
 http://av2019-1.eu:25461/pepeluis30062020/IcDcnWQ4Cg/805
-#EXTINF:-1 tvg-id="BLAZE" tvg-name="BLAZE" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/BIOGRA.png" group-title="DOCUMENTALES",BLAZE
+#EXTINF:-1 tvg-id="BLAZE" tvg-name="BLAZE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Blaze_-_2016_logo.svg/1200px-Blaze_-_2016_logo.svg.png" group-title="DOCUMENTALES",BLAZE
 http://av2019-1.eu:25461/pepeluis30062020/IcDcnWQ4Cg/130
 #EXTINF:-1 tvg-id="CAZAyPESCA HD" tvg-name="CAZAyPESCA HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkHaVPYgoQIwM6RJwiTV9-vnpdnbDN-G97vA&usqp=CAU" group-title="DOCUMENTALES",CAZA Y PESCA HD
 http://av2019-1.eu:25461/pepeluis30062020/IcDcnWQ4Cg/103
@@ -171,9 +171,9 @@ http://av2019-1.eu:25461/pepeluis30062020/IcDcnWQ4Cg/89
 http://av2019-1.eu:25461/pepeluis30062020/IcDcnWQ4Cg/49
 #EXTINF:-1 tvg-id="M. LaLiga 1 HD" tvg-name="M.LA LIGA 1 HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIG1.png" group-title="EVENTOS DEPORTIVOS",M.LA LIGA 1 HD
 http://av2019-1.eu:25461/pepeluis30062020/IcDcnWQ4Cg/69597
-#EXTINF:-1 tvg-id="M. LaLiga 2 HD" tvg-name="M.LA LIGA 2 HD" tvg-logo="https://www.thesportsdb.com/images/media/tvlogo/Movistar_LaLiga_2.png" group-title="EVENTOS DEPORTIVOS",M.LA LIGA 2 HD
+#EXTINF:-1 tvg-id="M. LaLiga 2 HD" tvg-name="M.LA LIGA 2 HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIG2.png" group-title="EVENTOS DEPORTIVOS",M.LA LIGA 2 HD
 http://av2019-1.eu:25461/pepeluis30062020/IcDcnWQ4Cg/69599
-#EXTINF:-1 tvg-id="M. LaLiga 3 HD" tvg-name="M.LA LIGA 3 HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSp-agU73nwNIYX1KY8Wag9uc9gNdpX8T1hAUL2xc9PZW1EtmWU2TkMqs1yAUfrE5EWf6E&usqp=CAU" group-title="EVENTOS DEPORTIVOS",M.LA LIGA 3 HD
+#EXTINF:-1 tvg-id="M. LaLiga 3 HD" tvg-name="M.LA LIGA 3 HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIG3.png" group-title="EVENTOS DEPORTIVOS",M.LA LIGA 3 HD
 http://av2019-1.eu:25461/pepeluis30062020/IcDcnWQ4Cg/69602
 #EXTINF:-1 tvg-id="M. LaLiga 4" tvg-name="M.LALIGA 4" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIG4.png" group-title="EVENTOS DEPORTIVOS",M.LALIGA 4
 http://av2019-1.eu:25461/pepeluis30062020/IcDcnWQ4Cg/69606
